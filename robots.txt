@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bmllk.cn/sitemap.xml
